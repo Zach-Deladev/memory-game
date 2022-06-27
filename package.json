@@ -1,0 +1,22 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zach-Deladev/memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zach-Deladev/memory-game/issues"
+  },
+  "homepage": "https://github.com/Zach-Deladev/memory-game#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
